@@ -1,0 +1,19 @@
+######################## Maths Learning Tutorial ##########################
+                               NOTATION                                   
+###########################################################################
+
+Scientific Notation: 
+
+A special way to represent the numbers.
+
+Example: We are using power of 10 below- 
+800 = 8 * 10^2
+7900,000,000 = 7.9 * 10^9
+
+Example : We often use "E" or "e" like this- 
+2E+4 which is same as 2 * 10^4
+
+Example : If value is smaller than 1 , we can write like this - 
+0.0066 = 6.6 * 10^-3
+
+
