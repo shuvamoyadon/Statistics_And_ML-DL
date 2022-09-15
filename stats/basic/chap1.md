@@ -23,10 +23,14 @@ Topics to cover: \
    
       Three forms of descriptive statistics:
       
-      Summary statistics - Helps to summarize the data
+      1.Summary statistics - Helps to summarize the data
       
          *  Measures of central tendency : It describe the center of a dataset. Ex: Mean and Median
          *  Measure of dispersion : It describes how the data are dispersed or spreaded. Ex: Range,Standard deviation,variance,interquartile range. 
-
+      
+      2.Graphs - We can analysize the data in representing the data points in the graph. There are various types of graph like Boxplots,histogram,scatterplot.
+      3.Table - How data is distributed, table help to understand. Ex - Freequency table tell us about the values fall within certain range.
+      
+      
 
 
