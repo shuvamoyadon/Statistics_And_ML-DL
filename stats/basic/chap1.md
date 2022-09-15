@@ -22,7 +22,7 @@ Topics to cover: \
               Example: When we interest the average score of all students with the distribution test score. We can create graph to visualize the data.
    
       Three forms of descriptive statistics:
-             * Summary statistics - Helps to summarize the data
+             *Summary statistics - Helps to summarize the data
                        a. Measures of central tendency : It describe the center of a dataset. Ex: Mean and Median
 		       b. Measure of dispersion : It describes how the data are dispersed or spreaded. Ex: Range,Standard deviation,variance,interquartile range. 
 
