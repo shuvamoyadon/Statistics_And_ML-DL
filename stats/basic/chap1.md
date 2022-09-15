@@ -24,7 +24,6 @@ Topics to cover: \
       Three forms of descriptive statistics:
       
       Summary statistics - Helps to summarize the data
-                       
 		       a. Measures of central tendency : It describe the center of a dataset. Ex: Mean and Median
 		       b. Measure of dispersion : It describes how the data are dispersed or spreaded. Ex: Range,Standard deviation,variance,interquartile range. 
 
