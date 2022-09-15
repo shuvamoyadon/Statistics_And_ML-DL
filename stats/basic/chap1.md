@@ -16,12 +16,12 @@ Topics to conver: \
      * Make decision using data points
      * Predict the future based on the data points
 
-2. Descriptive vs Inferential?
-   Descriptive: Descriptive statistics helps to describe a raw data using summary statistics, graphs, and tables.
-   Example: When we interest the average score of all students with the distribution test score. We can create graph to visualize the data.
+2. Descriptive vs Inferential? \n
+   Descriptive: Descriptive statistics helps to describe a raw data using summary statistics, graphs, and tables. \n
+   Example: When we interest the average score of all students with the distribution test score. We can create graph to visualize the data.\n
    
    Three forms of descriptive statistics: \n 
-             * Summary statistics - Helps to summarize the data 
+             * Summary statistics - Helps to summarize the data \n
                        a. Measures of central tendency : It describe the center of a dataset. Ex: Mean and Median
 		       b. Measure of dispersion : It describes how the data are dispersed or spreaded. Ex: Range,Standard deviation,variance,interquartile range. 
 
