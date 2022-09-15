@@ -1,6 +1,6 @@
-########################### Stats Tutorial #############################
-Topics to conver: 
-         1. What is statistics?
+########################### Stats Tutorial ############################# \
+Topics to conver: \
+         1. What is statistics? \
 	 2. Descriptive vs Inferential
 	 3. Population vs Sample
 	 4. Statistics vs Parameters
