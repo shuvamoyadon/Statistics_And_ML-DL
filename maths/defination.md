@@ -9,7 +9,17 @@ What is Vector?
 ![image](https://user-images.githubusercontent.com/42385240/192158323-c6158aa9-5087-4a1e-aa18-a766c28f18f8.png)
 
 * Vecor can start from any point in the plane. 
+* Vector can be notated like these below ways: 
+        Using an arrow : -> 
+        Using boldface : V
+        
+ * Vector represent in one column is referred to as column vector 
+ Ex: ![image](https://user-images.githubusercontent.com/42385240/192159595-e91d747f-0078-4d22-9100-02a4f914c635.png)
 
+* Vector represent in one row is referred to as row vector. 
+![image](https://user-images.githubusercontent.com/42385240/192159628-efc686ba-60d3-46fe-95f6-75845551fdc8.png)
+
+        
 
 
 
