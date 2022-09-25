@@ -15,6 +15,7 @@ What is Vector?
         
  * Vector represent in one column is referred to as column vector 
  Ex: ![image](https://user-images.githubusercontent.com/42385240/192159595-e91d747f-0078-4d22-9100-02a4f914c635.png)
+ 
  # 2-dimensional vector
 v2 = [7,-2]
 v2=np.array([v2])
