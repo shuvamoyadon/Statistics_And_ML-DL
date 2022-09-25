@@ -16,16 +16,19 @@ What is Vector?
  * Vector represent in one column is referred to as column vector 
  Ex: ![image](https://user-images.githubusercontent.com/42385240/192159595-e91d747f-0078-4d22-9100-02a4f914c635.png)
  
+ In Python numpy
  # 2-dimensional vector
 v2 = [7,-2]
 v2=np.array([v2])
 v2.T
+
 ![image](https://user-images.githubusercontent.com/42385240/192160534-f7f61114-68e3-41ff-b6ef-69c36b9abf83.png)
 
 * Vector represent in one row is referred to as row vector. 
 ![image](https://user-images.githubusercontent.com/42385240/192159628-efc686ba-60d3-46fe-95f6-75845551fdc8.png)
 
-* 
+In python numpy:  
+![image](https://user-images.githubusercontent.com/42385240/192160666-3305f7a4-36a6-42ad-a583-5e3a9337dbe3.png)
 
         
 
