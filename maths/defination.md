@@ -17,7 +17,7 @@ What is Vector?
  Ex: ![image](https://user-images.githubusercontent.com/42385240/192159595-e91d747f-0078-4d22-9100-02a4f914c635.png)
  
  In Python numpy
- # 2-dimensional vector
+# 2-dimensional vector
 v2 = [7,-2]
 v2=np.array([v2])
 v2.T
@@ -27,6 +27,10 @@ v2.T
 * Vector represent in one row is referred to as row vector. 
 ![image](https://user-images.githubusercontent.com/42385240/192159628-efc686ba-60d3-46fe-95f6-75845551fdc8.png)
 
+# 3-dimensional vector'
+v3 = [4,8,9]
+v3 = np.array(v3)
+v3
 In python numpy:  
 ![image](https://user-images.githubusercontent.com/42385240/192160666-3305f7a4-36a6-42ad-a583-5e3a9337dbe3.png)
 
