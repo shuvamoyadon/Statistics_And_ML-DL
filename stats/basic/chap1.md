@@ -29,9 +29,9 @@ Topics to cover: \
          *  Measure of dispersion : It describes how the data are dispersed or spreaded. Ex: Range,Standard deviation,variance,interquartile range. 
       
       2.Graphs - We can analysize the data in representing the data points in the graph. There are various types of graph like Boxplots,histogram,scatterplot.
-      
       3.Table - How data is distributed, table help to understand. Ex - Freequency table tell us about the values fall within certain range.
       
-      
+      ![image](https://user-images.githubusercontent.com/42385240/192153944-de592796-73ea-4070-91de-96a4174cdaa3.png)
+
 
 
