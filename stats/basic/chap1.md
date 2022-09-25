@@ -18,7 +18,8 @@ Topics to cover: \
 
 2. Descriptive vs Inferential?
    
-      Descriptive: Descriptive statistics helps to describe a raw data using summary statistics, graphs, and tables.
+      Descriptive: 
+      Descriptive statistics helps to describe a raw data using summary statistics, graphs, and tables.
       Example: When we interest the average score of all students with the distribution test score. We can create graph to visualize the data.
    
       Three forms of descriptive statistics:
@@ -34,6 +35,18 @@ Topics to cover: \
       
       3. Table:  How data is distributed, table help to understand. Ex - Freequency table tell us about the values fall within certain range.
       ![image](https://user-images.githubusercontent.com/42385240/192154091-1d74a42c-b9d2-4dcd-b4d0-6c012bdcf551.png)
+      
+      Inferential: 
+      inferential statistics uses a small sample of data to draw inferences about the larger population.
+      Ex: Want to check the buying tendency of product by millions of people in a country.
+      
+      The importance of represneting the data using sample: 
+      Ex : Lets say - we have population of Male and Female. From Population, we want to get sample say 10% from population. But in the new sample, if 90% of data is female and 10% male then that is not the good distribution in the sample. 
+      
+      ![image](https://user-images.githubusercontent.com/42385240/192154961-68864e6d-16ce-4177-acda-9d3e77352380.png)
+
+      So it is always advisable to use random function to have good distribution of data.
+      
 
 
 
