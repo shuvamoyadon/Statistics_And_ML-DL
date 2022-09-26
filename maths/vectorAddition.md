@@ -8,3 +8,9 @@ It does not matter which order it is . both will give the same result.
 
 ![image](https://user-images.githubusercontent.com/42385240/192198590-db63aac1-a370-4846-b9e8-6e65c7082c90.png)
 
+Lets say I have two vectors A and B
+
+A= [0
+    1
+    3 
+   ]
