@@ -10,7 +10,7 @@ It does not matter which order it is . both will give the same result.
 
 Lets say I have two vectors A and B in a form of matrix and as long as dimentions of both are same.
 
-![image](https://user-images.githubusercontent.com/42385240/192199431-450a5e79-34b2-4fae-be8f-86f38a743e55.png)
+![image](https://user-images.githubusercontent.com/42385240/192199499-548c3d6c-7dbf-4b73-81c1-761f7ca34336.png)
 
 
 
