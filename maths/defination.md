@@ -36,7 +36,7 @@ In python numpy:
 ![image](https://user-images.githubusercontent.com/42385240/192160666-3305f7a4-36a6-42ad-a583-5e3a9337dbe3.png)
 
 To plot the two and three dimentional vector . Below is the price of code: 
-
+'''
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
@@ -68,9 +68,11 @@ ax.plot([0, 0],[0, 0],[-4, 4],'k--')
 ax.plot([0, 0],[-4, 4],[0, 0],'k--')
 ax.plot([-4, 4],[0, 0],[0, 0],'k--')
 plt.show()
-
+'''
 
 ![image](https://user-images.githubusercontent.com/42385240/192196823-562d4019-a090-4756-ae60-3c124a49f564.png)
+![image](https://user-images.githubusercontent.com/42385240/192197146-d31a752c-8b54-40eb-aff9-e0410f25af71.png)
+
 
         
 
