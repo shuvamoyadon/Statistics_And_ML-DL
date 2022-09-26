@@ -8,13 +8,10 @@ It does not matter which order it is . both will give the same result.
 
 ![image](https://user-images.githubusercontent.com/42385240/192198590-db63aac1-a370-4846-b9e8-6e65c7082c90.png)
 
-Lets say I have two vectors A and B
+Lets say I have two vectors A and B in a form of matrix and as long as dimentions of both are same.
 
-A= [
-    0
+![image](https://user-images.githubusercontent.com/42385240/192199431-450a5e79-34b2-4fae-be8f-86f38a743e55.png)
 
-    1
-    
-    3
-    
-    ]
+
+
+
