@@ -10,7 +10,11 @@ It does not matter which order it is . both will give the same result.
 
 Lets say I have two vectors A and B
 
-A= [0
+A= [
+    0
+
     1
-    3 
-   ]
+    
+    3
+    
+    ]
