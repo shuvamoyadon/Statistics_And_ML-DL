@@ -32,6 +32,9 @@ v3 = [4,8,9]
 v3 = np.array(v3)
 v3
 
+![image](https://user-images.githubusercontent.com/42385240/192200215-04ede845-8aa5-4e1d-8bad-54afea8fddfc.png)
+
+
 In python numpy:  
 ![image](https://user-images.githubusercontent.com/42385240/192160666-3305f7a4-36a6-42ad-a583-5e3a9337dbe3.png)
 
