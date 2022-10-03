@@ -29,7 +29,10 @@
        2) It is a supervised learning algorithim .It needs labeled input data to learn.
        3) They only learn linear function.
        4) Cant be connected to each other.
-       ![image](https://user-images.githubusercontent.com/42385240/193511491-a454e96e-7e7a-4345-bbd6-f7bf67456245.png)
+      
+    ![image-5](https://user-images.githubusercontent.com/42385240/193511832-6b22ec92-d954-46a3-813c-6192ab6dda0b.png)
+
+
 
         
 
