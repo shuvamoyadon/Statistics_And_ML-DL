@@ -20,6 +20,18 @@
    ## What is Neuron and Perception?
    
       * Neuron: 
+        1) Neurons are cells in the nervous system
+        2) They are interconnected with other neurons
+        3) It passes signils to each others.
+        
+     * Perceptron:
+       1) Perceptron is a type of artificial neural network which is used to classify patterns.
+       2) It is a supervised learning algorithim .It needs labeled input data to learn.
+       3) They only learn linear function.
+       4) Cant be connected to each other.
+       ![image](https://user-images.githubusercontent.com/42385240/193511491-a454e96e-7e7a-4345-bbd6-f7bf67456245.png)
+
+        
 
 
 
