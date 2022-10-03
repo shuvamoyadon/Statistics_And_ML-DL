@@ -3,7 +3,7 @@
   * Difference between ML and DL?
   * What is Neuron and Perception?
   * Why Deep Learning?
-  * Use of Deep Learning
+  * When to Use of Deep Learning
   
   ## What is Deep Learning?
   
@@ -41,7 +41,7 @@
     * DL works very well when we deal with image classification, speech recognization,NLP.
 <img src="https://user-images.githubusercontent.com/42385240/193516494-3ed5ceb9-dfbd-476b-8c2c-a7d90794c51d.png" width=500 height=300>
 
- ## Use of Deep Learning
+ ## When to use of Deep Learning
  
     * Use Deep learing when Data size is very huge.
     * When we have good Hardware configuration like (more cores in GPU Vram)
