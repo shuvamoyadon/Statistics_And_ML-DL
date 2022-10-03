@@ -46,6 +46,7 @@
     * Use Deep learing when Data size is very huge.
     * When we have good Hardware configuration like (more cores in GPU Vram)
     * When we deal with Image processing, NLP,Speech Recognization.
+    * When we do not have domain knowledge and have less worry about feature engineering. 
 
 References-https://towardsdatascience.com/why-deep-learning-is-needed-over-traditional-machine-learning-1b6a99177063
 
