@@ -1,5 +1,5 @@
   ## Topics to be covered: 
-  #B* What is Deep Learning?
+  * What is Deep Learning?
   * Difference between ML and DL?
   * What is Neuron and Perception?
   * Why Deep Learning?
