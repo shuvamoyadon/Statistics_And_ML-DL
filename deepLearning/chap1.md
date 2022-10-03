@@ -41,6 +41,8 @@
     * DL works very well when we deal with image classification, speech recognization,NLP.
 <img src="https://user-images.githubusercontent.com/42385240/193516494-3ed5ceb9-dfbd-476b-8c2c-a7d90794c51d.png" width=500 height=300>
 
+References-https://towardsdatascience.com/why-deep-learning-is-needed-over-traditional-machine-learning-1b6a99177063
+
 
       
 
