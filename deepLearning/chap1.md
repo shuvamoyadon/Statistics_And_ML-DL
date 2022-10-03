@@ -23,7 +23,9 @@
         1) Neurons are cells in the nervous system
         2) They are interconnected with other neurons
         3) It passes signils to each others.
-![image](https://user-images.githubusercontent.com/42385240/193513202-f396e177-34e2-4abc-925d-fa1301458487.png)
+        
+<img src=https://user-images.githubusercontent.com/42385240/193513202-f396e177-34e2-4abc-925d-fa1301458487.png" width="500" height="300">
+
 
         
      * Perceptron:
