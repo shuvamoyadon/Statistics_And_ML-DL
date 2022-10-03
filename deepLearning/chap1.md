@@ -19,7 +19,7 @@
      
    ## What is Neuron and Perception?
    
-      * Neuron: 
+     * Neuron: 
         1) Neurons are cells in the nervous system
         2) They are interconnected with other neurons
         3) It passes signils to each others.
@@ -29,8 +29,11 @@
        2) It is a supervised learning algorithim .It needs labeled input data to learn.
        3) They only learn linear function.
        4) Cant be connected to each other.
+       
+    ![image-5](https://user-images.githubusercontent.com/42385240/193512153-82648e4d-b2c2-41d6-ac70-c7da83f6c40f.png)
+
       
-    ![image-5](https://user-images.githubusercontent.com/42385240/193511832-6b22ec92-d954-46a3-813c-6192ab6dda0b.png)
+
 
 
 
