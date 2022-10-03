@@ -34,6 +34,10 @@
 <img src="https://user-images.githubusercontent.com/42385240/193513067-293db73d-e829-4853-bdc5-1c1b37943dca.png" width=500 height=300>
 
 
+ ## Why Deep Learning?
+    * As much as Data volume grow, the DL performs better with better acuracy compared to traditional ML model
+
+
       
 
 
