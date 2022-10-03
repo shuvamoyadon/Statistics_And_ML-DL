@@ -36,6 +36,10 @@
 
  ## Why Deep Learning?
     * As much as Data volume grow, the DL performs better with better acuracy compared to traditional ML model
+    * The traditional model needs lot of domain expertise,human intervention but for DL, its not required.
+    * For huge dataset and good cluster or machine hardware configuration, always go with DL.
+    * DL works very well when we deal with image classification, speech recognization,NLP.
+<img src="https://user-images.githubusercontent.com/42385240/193516494-3ed5ceb9-dfbd-476b-8c2c-a7d90794c51d.png" width=500 height=300>
 
 
       
